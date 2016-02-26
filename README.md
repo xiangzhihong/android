@@ -1,6 +1,6 @@
 ##实现效果
-https://github.com/xiangzhihong/android/blob/master/shotscreen/device-2016-02-25-175157.png
 
+ ![ABC](https://github.com/xiangzhihong/android/blob/master/shotscreen/device-2016-02-25-175157.png) 
 
 ##开源协议
  Copyright (C) 2016
