@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <xzh.com.mojiweather.view.SceneSurfaceView
+       android:id="@+id/id_bgView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+   <xzh.com.mojiweather.view.ChartView
+       android:id="@+id/chartView"
+       android:layout_marginTop="30dp"
+       android:layout_width="match_parent"
+       android:layout_height="200dp"
+       android:layout_centerInParent="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="墨迹天气"
+        android:textColor="@android:color/white"
+        android:textSize="30sp" />
+
+</RelativeLayout>
